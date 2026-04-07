@@ -7,13 +7,13 @@
 This repository preserves the original experimental design while improving packaging, metadata, reproducibility support, and English-language documentation.
 
 ### Core optimization methods
-- `AdaN`
-- `ARC`
-- `CR`
-- `Algorithm1`
-- `SuperUniversalNewton`
-- `CubicMM`
-- `ECME`
+- `Algorithm1`:Our adaptive LM algorithm(ALM)
+- [`AdaN`](https://arxiv.org/abs/xxxx.xxxxx)
+- [`ARC`](https://arxiv.org/abs/xxxx.xxxxx)
+- [`CR`](https://arxiv.org/abs/xxxx.xxxxx)
+- [`SuperUniversalNewton`](https://arxiv.org/abs/xxxx.xxxxx)
+- [`CubicMM`](https://arxiv.org/abs/xxxx.xxxxx)
+- [`ECME`](https://arxiv.org/abs/xxxx.xxxxx)
 
 ### Benchmark and statistical models
 - `HighDimRosenbrock`
