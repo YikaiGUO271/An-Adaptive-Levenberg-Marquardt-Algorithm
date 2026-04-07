@@ -102,13 +102,6 @@ print("final gradient norm:", optimizer.history["grad_norm"][-1])
 - Basic smoke tests are provided in `test/`.
 - Basic project metadata and release files are included for packaging and archival use.
 
-## What still requires author input
-
-Before public release or manuscript submission, the authors should complete the placeholders in:
-- `pyproject.toml`
-- `AUTHORS.md`
-- `LICENSE.md`
-
 ## Suggested release workflow
 
 1. Fill all placeholder metadata.
