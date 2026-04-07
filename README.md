@@ -79,9 +79,9 @@ print("final gradient norm:", optimizer.history["grad_norm"][-1])
 ├── MANIFEST.in
 ├── README.md
 ├── pyproject.toml
-├── Experiments.ipynb
 ├── src/
 │   └── adaptive_lm/
+│       ├── Experiments.ipynb
 │       ├── __init__.py
 │       ├── base.py
 │       ├── models.py
