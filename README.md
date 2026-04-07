@@ -79,7 +79,6 @@ print("final gradient norm:", optimizer.history["grad_norm"][-1])
 ```text
 .
 ├── .github/workflows/ci.yml
-├── AUTHORS.md
 ├── LICENSE.md
 ├── MANIFEST.in
 ├── README.md
