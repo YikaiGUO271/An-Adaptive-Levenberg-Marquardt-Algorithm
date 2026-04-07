@@ -1,0 +1,5 @@
+include README.md
+include AUTHORS.md
+include LICENSE.md
+include Experiments.ipynb
+recursive-include test *.py
