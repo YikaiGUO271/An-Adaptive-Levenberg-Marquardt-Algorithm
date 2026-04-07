@@ -11,7 +11,7 @@ This repository preserves the original experimental design while improving packa
 - [`AdaN`]()
 - [`ARC`](https://arxiv.org/abs/xxxx.xxxxx)
 - [`CR`](https://doi.org/10.1007/s10107-006-0706-8): cubic regularized Newton method(Nesterov & Polyak, 2007)
-- [`SuperUniversalNewton`](https://doi.org/10.1137/22M1519444): super universal regularized Newton method(Dokiov et.al, 2024)
+- [`SUN`](https://doi.org/10.1137/22M1519444): super universal regularized Newton method(Dokiov et.al, 2024)
 - [`CubicMM`](https://arxiv.org/abs/xxxx.xxxxx)
 - [`ECME`](https://arxiv.org/abs/xxxx.xxxxx)
 
